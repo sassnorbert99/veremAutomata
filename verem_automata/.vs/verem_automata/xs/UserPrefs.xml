@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C93DE269-79C1-4D5A-B50C-B32356D293C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="verem_automata/Program.cs">
+    <Files>
+      <File FileName="verem_automata/Program.cs" Line="55" Column="22" />
+      <File FileName="verem_automata/packages.config" />
+      <File FileName="verem_automata/App.config" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="verem_automata" expanded="True">
+            <Node name="verem_automata" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="verem_tabla.xlsx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.verem__automata PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,41 @@
+D:\VS projects (info)\verem_automata\verem_automata\bin\Debug\verem_automata.exe.config
+D:\VS projects (info)\verem_automata\verem_automata\bin\Debug\verem_automata.exe
+D:\VS projects (info)\verem_automata\verem_automata\bin\Debug\verem_automata.pdb
+D:\VS projects (info)\verem_automata\verem_automata\obj\Debug\verem_automata.csprojResolveAssemblyReference.cache
+D:\VS projects (info)\verem_automata\verem_automata\obj\Debug\verem_automata.csproj.ResolveComReference.cache
+D:\VS projects (info)\verem_automata\verem_automata\obj\Debug\verem_automata.exe
+D:\VS projects (info)\verem_automata\verem_automata\obj\Debug\verem_automata.pdb
+K:\verem_automata\verem_automata\bin\Debug\verem_automata.exe.config
+K:\verem_automata\verem_automata\obj\Debug\verem_automata.csproj.ResolveComReference.cache
+K:\verem_automata\verem_automata\obj\Debug\verem_automata.exe
+K:\verem_automata\verem_automata\obj\Debug\verem_automata.pdb
+K:\verem_automata\verem_automata\bin\Debug\verem_automata.exe
+K:\verem_automata\verem_automata\bin\Debug\verem_automata.pdb
+K:\verem_automata\verem_automata\obj\Debug\verem_automata.csprojResolveAssemblyReference.cache
+C:\Users\Norbi\Desktop\verem_automata\verem_automata\bin\Debug\verem_automata.exe.config
+C:\Users\Norbi\Desktop\verem_automata\verem_automata\obj\Debug\verem_automata.csproj.ResolveComReference.cache
+C:\Users\Norbi\Desktop\verem_automata\verem_automata\obj\Debug\verem_automata.exe
+C:\Users\Norbi\Desktop\verem_automata\verem_automata\obj\Debug\verem_automata.pdb
+C:\Users\Norbi\Desktop\verem_automata\verem_automata\bin\Debug\verem_automata.exe
+C:\Users\Norbi\Desktop\verem_automata\verem_automata\bin\Debug\verem_automata.pdb
+C:\Users\Norbi\Desktop\verem_automata\verem_automata\obj\Debug\verem_automata.csprojResolveAssemblyReference.cache
+D:\verem_automata\verem_automata\bin\Debug\verem_automata.exe.config
+D:\verem_automata\verem_automata\obj\Debug\verem_automata.csproj.ResolveComReference.cache
+D:\verem_automata\verem_automata\obj\Debug\verem_automata.exe
+D:\verem_automata\verem_automata\obj\Debug\verem_automata.pdb
+D:\verem_automata\verem_automata\bin\Debug\verem_automata.exe
+D:\verem_automata\verem_automata\bin\Debug\verem_automata.pdb
+D:\verem_automata\verem_automata\obj\Debug\verem_automata.csprojResolveAssemblyReference.cache
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\verem_automata.exe.config
+I:\gépről lementett dolgok\verem_automata\verem_automata\obj\Debug\verem_automata.csproj.ResolveComReference.cache
+I:\gépről lementett dolgok\verem_automata\verem_automata\obj\Debug\verem_automata.exe
+I:\gépről lementett dolgok\verem_automata\verem_automata\obj\Debug\verem_automata.pdb
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\verem_automata.exe
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\verem_automata.pdb
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\mscorlib.dll
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\normidna.nlp
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\normnfc.nlp
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\normnfd.nlp
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\normnfkc.nlp
+I:\gépről lementett dolgok\verem_automata\verem_automata\bin\Debug\normnfkd.nlp
+I:\gépről lementett dolgok\verem_automata\verem_automata\obj\Debug\verem_automata.csprojResolveAssemblyReference.cache
